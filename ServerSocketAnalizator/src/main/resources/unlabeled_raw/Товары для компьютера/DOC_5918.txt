@@ -1,0 +1,64 @@
+Nvidea GTX880m-8Gb-mxm3 NVIDIA GeForce GTX 880M/
+/
+Так же есть в наличии много других карт/
+Смотрите профиль,звоните-узнавайте/
+/
+Производитель: 	NVIDIA/
+Серия: 	GeForce GTX 800M/
+Код: 	N15E-GX-A2/
+Архитектура: 	Kepler/
+Потоки: 	1536 - unified/
+Тактовая частота: 	954 * МГц/
+Частота памяти: 	5000 * МГц/
+Разрядность шины памяти: 	256 Бит/
+Тип памяти: 	GDDR5/
+Максимум памяти: 	8192 МБ/
+Общая память: 	нет/
+DirectX: 	DirectX 11, Shader 5.0/
+Число транзисторов: 	3540 млн/
+Технология: 	28 нм/
+Дополнительно: 	Battery Boost, GameStream, ShadowPlay, GPU Boost 2.0, Optimus, PhysX, CUDA, SLI, GeForce Experience/
+Размер ноутбука: 	большой/
+/
+Так же есть в наличии карты/
+GTX 460m 1.5Gb-6000р/
+GTX 560m 1.5Gb-/
+GTX 570M 1.5Gb-/
+GTX 580m 2Gb-- 11000р/
+GTX 660m 2Gb- /
+GTX 670m 3Gb-/
+GTX 670mx 3Gb-13000р/
+GTX 675m 2Gb-11000р/
+GTX 675mx 4Gb-14500р/
+GTX 765m 2Gb-11000р/
+GTX 770m 3Gb-13500р/
+GTX 780m 4Gb-18000р/
+GTX 860m 2Gb-12000р/
+GTX 870m 3Gb-15500р/
+GTX 880m 8Gb-20000р/
+GTX 960m 4Gb-15000р/
+GTX 965m 4Gb-19500р/
+GTX 970m 3Gb-21500р/
+GTX 980m 8Gb-/
+HD 6970m 2Gb-14000р/
+HD 8950m 2Gb-9000р/
+HD 8970m 2/4Gb-14500/16000р/
+HD 7970m 2Gb-14000р/
+HD 5870m 1Gb-/
+Quadro 3000m 2Gb-6000р/
+Quadro K1000m 2Gb-5000р/
+Quadro K1100m 2Gb-6000р/
+Quadro K2100m 2Gb-8000р/
+Quadro K3000m 2Gb-8000р/
+Quadro K3100m 4Gb-11000р/
+Quadro K5100m 8Gb-22500р/
+Quadro K4000m 4Gb-12500р/
+Quadro K4100m 4Gb-14500р/
+Quadro M1000m 2Gb-12500р/
+Quadro M2200m 4Gb-19000р/
+Quadro M2000m 4Gb-15000р/
+Quadro M3000m 4Gb-20000р/
+AMD FirePro M8900 2Gb-12500р-/
+Аналог HD 6970m/
+AMD R9 m390x 4Gb-20000р/
+Аналог GTX 970m

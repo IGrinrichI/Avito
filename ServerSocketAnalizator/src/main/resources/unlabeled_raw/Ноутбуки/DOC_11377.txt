@@ -1,0 +1,45 @@
+Hp-pavilion 15-n058sr Ноутбук Hp-pavilion 15-n058sr. Игровой ноутбук в хорошем состоянии, недавно менял термопасту и чистил. На нем играл в CS GO на средних 70-90 фпс, в Dota 2 на средних 100 фпс, в Warface на низких 60 фпс Overwatch на средних 50 фпс./
+Характеристики:/
+Операционная система HP Pavilion 15-n058sr/
+Microsoft Windows 10 64-bit/
+Процессор HP Pavilion 15-n058sr/
+Производитель: Intel/
+Модель: Core i5-4200U/
+Тактовая частота (MHz): 1600/
+Кэш 2-го уровня (Kb): 512/
+Кэш 3-го уровня (Kb): 3072/
+Материнская плата HP Pavilion 15-n058sr/
+Чипсет: Intel HM77 Express/
+Память HP Pavilion 15-n058sr/
+Объем (Mb): 6144/
+Тип: DDR3-1600/
+Жесткий диск HP Pavilion 15-n058sr/
+Объем (Gb): 750/
+Интерфейс: SATA/
+Скорость вращения (RPM): 5400/
+Привод HP Pavilion 15-n058sr/
+DVD-RW/
+Видео HP Pavilion 15-n058sr/
+Чипсет: AMD Radeon HD 8670M/
+Объем (Mb): 1024/
+Доп. видео HP Pavilion 15-n058sr/
+Чипсет: Intel HD Graphics 4000/
+Дисплей HP Pavilion 15-n058sr/
+Диагональ (дюймы): 15.6/
+Разрешение: 1366x768/
+Тип: WXGA/
+Аудио HP Pavilion 15-n058sr/
+Технология: Intel High Definition Audio/
+Сеть HP Pavilion 15-n058sr/
+Wi-Fi: есть/
+Bluetooth: есть/
+LAN: есть/
+Веб-камера: есть/
+Кардридер HP Pavilion 15-n058sr/
+Тип карт: SD/MMC/MS/Pro/xD/
+Порты HP Pavilion 15-n058sr/
+HDMI: есть/
+VGA: есть/
+Вход для микрофона: есть/
+Выход для наушников: есть/
+Микрофон: есть

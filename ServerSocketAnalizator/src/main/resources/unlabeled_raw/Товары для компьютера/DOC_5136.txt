@@ -1,0 +1,5 @@
+Процессор Intel core i3-2100 Sandy Bridge Разъём Socket Intle LGA 1155/
+Кол-во ядер 2 cores/
+Кол-во потоков 4 theads/
+Тактовая частота 3.1 ГГц/
+Техпроцесс 32 нм

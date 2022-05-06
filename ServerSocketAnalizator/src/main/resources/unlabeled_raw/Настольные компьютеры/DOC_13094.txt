@@ -1,0 +1,17 @@
+Системный блок Системная плата:/
+ Тип ЦП  -  QuadCore Intel Core 2 Quad Q6600, 2400 MHz (9 x 267)/
+ Системная плата  -  Asus P5B  (3 PCI, 3 PCI-E x1, 1 PCI-E x16, 4 DDR2 DIMM, Audio, Gigabit LAN)/
+ Чипсет системной платы   -   Intel Broadwater P965/
+ Системная память -   6144 МБ  (DDR2-667 DDR2 SDRAM)/
+ Отображение:/
+ Видеоадаптер  -  GeForce GTX 650  (1 ГБ)/
+ Мультимедиа:/
+Звуковой адаптер  -  Analog Devices AD1988A @ Intel 82801HB ICH8/
+Хранение данных:/
+Флоппи-накопитель  -  Дисковод/
+Дисковый накопитель - ST3160813AS ATA Device  (160 ГБ, 7200 RPM, SATA-II)/
+Дисковый накопитель - WDC WD1600AAJS-00B4A0 ATA Device  (160 ГБ, 7200 RPM, SATA-II)/
+Оптический накопитель  -  _NEC DVD_RW ND-3500AG ATA Device/
+Сеть:/
+Сетевой адаптер - Realtek PCIe GBE Family Controller/
+Операционная система  -  Microsoft Windows 10 Professional обновлена до последней версии 1803

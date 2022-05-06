@@ -1,0 +1,24 @@
+Пишущий DVD для ноутбуков GMA-4082N DVDrw Writable/CD-RW drive/
+ASM P/N 27R2394/
+FRU P/N 27R2395/
+DRV P/N 27R2358/
+Rate: 8X DVDRW max/
+Buffer Size: 2 MB/
+Height: 12.7mm/
+Interface: IDE/ATAPI (Not SATA)/
+Booting: Slave/
+Disk Load: Tray  (Not Slot)/
+Specifications:/
+5X  DVD-RAM Writing/
+8X  DVD-R Writing/
+2X  DVD-R (DL) Writing/
+4X  DVD-RW Writing/
+8X  DVD+R 4.7GB Writing/
+2.4X DVD+R (DL) Writing/
+4X  DVD+RW 4.7GB Writing/
+24X  CD-R Writing/
+16X  CD-RW Writing/
+24X  CD-ROM Reading/
+8X  DVD-ROM Reading/
+Supported CD Formats: CD Text, CD Extra, CD-DA (audio), CD-I, CD-ROM XA, Photo CD, Video CD, CD-ROM, DVD-Video/
+Supported Media Types: CD-ROM, CD-R, CD-RW, DVD-ROM, DVD-R, DVD-RAM, DVD-RW, DVD+RW, DVD+R, DVD+R DL, DVD-R DL

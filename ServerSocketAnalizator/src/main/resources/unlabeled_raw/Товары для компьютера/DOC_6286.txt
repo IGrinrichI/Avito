@@ -1,0 +1,2 @@
+Axis 5400+ Новый абсолютно./
+AXIS 5400+ - принт-сервер; поддерживаемые принтеры: Toshiba, Canon, HP, IBM Brother, Epson, Kyocera, Lexmark; RJ-45; поддержка современных web браузеров; протоколы: AAPR, ATP, DDP, NBP, PAP, RTMP, ZIP, IPX, SPX, SAP, NCP,LIP, RIP, RIP-II, OSPF,NDPS; ARP, DHCP, BOOTP, RARP,DNS,TFTP, FTP,SSL/TLS; габариты: 24x61x121 мм

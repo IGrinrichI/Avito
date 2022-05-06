@@ -1,0 +1,27 @@
+Расширитель слотов Netstor NA211TB3 Thunderbolt3 Расширитель слотов Netstor NA211TB3 — Thunderbolt™3/
+Новый ( в коробке) Гарантия 1 год./
+Подходит для всех современных Mac (iMac, MacBook Pro, iMacPro)/
+для более старых моделей можно использовать с переходником thunderbolt 2/
+/
+Host Interface	Thunderbolt™3 (Dual Port USB-C for Daisy Chain)/
+Data Transfer Rate	40Gbps/
+No. of PCIe Slots	Three PCIe 3.0 x8 (Two slots are available for PCIe x16 card)/
+Thunderbolt Expansion	Up to Six Thunderbolt devices/
+LED Display for Enclosure	Power On/
+Material	Aluminum housing with solid metal structure/
+Power Supply	Single 300W PSU (High-Efficiency & Low Noise)/
+Input: 90-230 VAC/50-60 HZ/
+Output: +5V and +12V/
+(With two PCIe 6+2 pin & one 4 Pin auxiliary power cable)/
+Dimension	371(D) x 110(W) x 200(H) mm/
+14.6 (D) x 4.3 (W) x 7.87 (H) inch/
+Cooling	One Hot-Swappable 80 x80 x20 mm Cooling Fan/
+System Support	MacBook Pro(2016) with a Thunderbolt 3 port/
+Note: Thunderbolt 2 Mac will request a Thunderbolt 3(USB-C) to Thunderbolt 2 adapter from Apple./
+O.S. Support	Mac OS X 10.12.3 above/
+PCIe card Driver Request	Third-party PCIe card should support Mac OS with Thunderbolt aware’s driver/
+PCIe card Size Available	Full length (315mm), full height (120mm) PCIe cards/
+Package Content	Enclosure x 1/
+Thunderbolt3-40Gbps cable x 1 (2 meter)/
+Carry Bag x 1/
+Power Cord x 1
