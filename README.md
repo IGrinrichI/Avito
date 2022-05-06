@@ -1,2 +1,2 @@
 # Avito
-Classification of Avito ads
+Avito ad classification
